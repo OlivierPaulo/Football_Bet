@@ -2,6 +2,3 @@
 *sqlite
 /data
 *.zip
-*.ipynb
-/notebook
-notebook
