@@ -2,4 +2,4 @@
 *.sqlite
 /data
 *.zip
-*.vscode
+/.vscode
